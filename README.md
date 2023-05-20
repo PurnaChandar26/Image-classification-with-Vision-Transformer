@@ -19,4 +19,4 @@ Make sure you have the following dependencies installed:
 - NumPy
 - Matplotlib
 - scikit-learn
-Please refer to the individual implementation directories for specific version requirements.
+Please refer to the individual implementation directories for specific version requirements..
